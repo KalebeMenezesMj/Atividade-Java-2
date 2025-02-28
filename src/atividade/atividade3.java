@@ -6,7 +6,6 @@ public class atividade3 {
 
 	public static void main(String[] args) {
 
-		Scanner scan = new Scanner(System.in);
 		
 		int [] [] matriz = {
 				{1, 2},
